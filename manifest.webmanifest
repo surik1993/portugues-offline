@@ -1,0 +1,11 @@
+{
+  "name": "Португальский офлайн — PT-PT",
+  "short_name": "PT Словарь",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f6",
+  "theme_color": "#146b52",
+  "description": "Офлайн-словарь европейского португальского языка для русскоговорящих"
+}

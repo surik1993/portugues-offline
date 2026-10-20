@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "pt": "casa",
+    "ru": "дом; жилище",
+    "pos": "существительное, женский род",
+    "example_pt": "A minha casa fica perto do centro.",
+    "example_ru": "Мой дом находится недалеко от центра.",
+    "notes": "Европейский португальский: часто используется притяжательная конструкция «a minha casa».",
+    "forms": {}
+  },
+  {
+    "id": 2,
+    "pt": "água",
+    "ru": "вода",
+    "pos": "существительное, женский род",
+    "example_pt": "Queria um copo de água, por favor.",
+    "example_ru": "Я хотел(а) бы стакан воды, пожалуйста.",
+    "notes": "",
+    "forms": {}
+  },
+  {
+    "id": 3,
+    "pt": "bom",
+    "ru": "хороший; добрый",
+    "pos": "прилагательное",
+    "example_pt": "Hoje é um bom dia.",
+    "example_ru": "Сегодня хороший день.",
+    "notes": "Женская форма: boa; множественное число: bons/boas.",
+    "forms": {}
+  },
+  {
+    "id": 4,
+    "pt": "obrigado",
+    "ru": "спасибо (говорит мужчина)",
+    "pos": "выражение",
+    "example_pt": "Muito obrigado pela ajuda.",
+    "example_ru": "Большое спасибо за помощь.",
+    "notes": "Женщина обычно говорит «obrigada».",
+    "forms": {}
+  },
+  {
+    "id": 5,
+    "pt": "obrigada",
+    "ru": "спасибо (говорит женщина)",
+    "pos": "выражение",
+    "example_pt": "Muito obrigada pela ajuda.",
+    "example_ru": "Большое спасибо за помощь.",
+    "notes": "Мужчина обычно говорит «obrigado».",
+    "forms": {}
+  },
+  {
+    "id": 6,
+    "pt": "por favor",
+    "ru": "пожалуйста (просьба)",
+    "pos": "выражение",
+    "example_pt": "Um café, por favor.",
+    "example_ru": "Один кофе, пожалуйста.",
+    "notes": "",
+    "forms": {}
+  },
+  {
+    "id": 7,
+    "pt": "bom dia",
+    "ru": "доброе утро; добрый день",
+    "pos": "выражение",
+    "example_pt": "Bom dia! Como está?",
+    "example_ru": "Доброе утро! Как вы поживаете?",
+    "notes": "Обычное приветствие в первой половине дня.",
+    "forms": {}
+  },
+  {
+    "id": 8,
+    "pt": "água com gás",
+    "ru": "газированная вода",
+    "pos": "словосочетание",
+    "example_pt": "Uma água com gás, se faz favor.",
+    "example_ru": "Газированную воду, пожалуйста.",
+    "notes": "«Se faz favor» — вежливое «пожалуйста» в Португалии.",
+    "forms": {}
+  },
+  {
+    "id": 9,
+    "pt": "comer",
+    "ru": "есть, кушать",
+    "pos": "глагол",
+    "example_pt": "Costumo comer às oito.",
+    "example_ru": "Я обычно ем в восемь.",
+    "notes": "Правильный глагол на -er.",
+    "forms": {
+      "infinitivo": "comer",
+      "presente": {
+        "eu": "como",
+        "tu": "comes",
+        "ele/ela/você": "come",
+        "nós": "comemos",
+        "vós": "comeis",
+        "eles/elas/vocês": "comem"
+      },
+      "pretérito_perfeito": {
+        "eu": "comi",
+        "tu": "comeste",
+        "ele/ela/você": "comeu",
+        "nós": "comemos",
+        "vós": "comestes",
+        "eles/elas/vocês": "comeram"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "pt": "ser",
+    "ru": "быть (постоянный признак, идентичность)",
+    "pos": "глагол",
+    "example_pt": "Sou de Lisboa.",
+    "example_ru": "Я из Лиссабона.",
+    "notes": "Неправильный глагол.",
+    "forms": {
+      "infinitivo": "ser",
+      "presente": {
+        "eu": "sou",
+        "tu": "és",
+        "ele/ela/você": "é",
+        "nós": "somos",
+        "vós": "sois",
+        "eles/elas/vocês": "são"
+      },
+      "pretérito_perfeito": {
+        "eu": "fui",
+        "tu": "foste",
+        "ele/ela/você": "foi",
+        "nós": "fomos",
+        "vós": "fostes",
+        "eles/elas/vocês": "foram"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "pt": "estar",
+    "ru": "быть, находиться; временное состояние",
+    "pos": "глагол",
+    "example_pt": "Estou em casa.",
+    "example_ru": "Я дома.",
+    "notes": "Неправильный глагол.",
+    "forms": {
+      "infinitivo": "estar",
+      "presente": {
+        "eu": "estou",
+        "tu": "estás",
+        "ele/ela/você": "está",
+        "nós": "estamos",
+        "vós": "estais",
+        "eles/elas/vocês": "estão"
+      },
+      "pretérito_perfeito": {
+        "eu": "estive",
+        "tu": " estiveste",
+        "ele/ela/você": "esteve",
+        "nós": "estivemos",
+        "vós": "estivestes",
+        "eles/elas/vocês": "estiveram"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "pt": "ter",
+    "ru": "иметь",
+    "pos": "глагол",
+    "example_pt": "Tenho dois irmãos.",
+    "example_ru": "У меня два брата.",
+    "notes": "Неправильный глагол.",
+    "forms": {
+      "infinitivo": "ter",
+      "presente": {
+        "eu": "tenho",
+        "tu": "tens",
+        "ele/ela/você": "tem",
+        "nós": "temos",
+        "vós": "tendes",
+        "eles/elas/vocês": "têm"
+      },
+      "pretérito_perfeito": {
+        "eu": "tive",
+        "tu": "tiveste",
+        "ele/ela/você": "teve",
+        "nós": "tivemos",
+        "vós": "tivestes",
+        "eles/elas/vocês": "tiveram"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "pt": "ir",
+    "ru": "идти; ехать",
+    "pos": "глагол",
+    "example_pt": "Vou para o trabalho de comboio.",
+    "example_ru": "Я еду на работу на поезде.",
+    "notes": "В Португалии обычно говорят «comboio», а не бразильское «trem».",
+    "forms": {
+      "infinitivo": "ir",
+      "presente": {
+        "eu": "vou",
+        "tu": "vais",
+        "ele/ela/você": "vai",
+        "nós": "vamos",
+        "vós": "ides",
+        "eles/elas/vocês": "vão"
+      },
+      "pretérito_perfeito": {
+        "eu": "fui",
+        "tu": "foste",
+        "ele/ela/você": "foi",
+        "nós": "fomos",
+        "vós": "fostes",
+        "eles/elas/vocês": "foram"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "pt": "falar",
+    "ru": "говорить; разговаривать",
+    "pos": "глагол",
+    "example_pt": "Falo um pouco de português.",
+    "example_ru": "Я немного говорю по-португальски.",
+    "notes": "Правильный глагол на -ar.",
+    "forms": {
+      "infinitivo": "falar",
+      "presente": {
+        "eu": "falo",
+        "tu": "falas",
+        "ele/ela/você": "fala",
+        "nós": "falamos",
+        "vós": "falais",
+        "eles/elas/vocês": "falam"
+      },
+      "pretérito_perfeito": {
+        "eu": "falei",
+        "tu": "falaste",
+        "ele/ela/você": "falou",
+        "nós": "falámos",
+        "vós": "falastes",
+        "eles/elas/vocês": "falaram"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "pt": "querer",
+    "ru": "хотеть",
+    "pos": "глагол",
+    "example_pt": "Queria marcar uma consulta.",
+    "example_ru": "Я хотел(а) бы записаться на приём.",
+    "notes": "«Queria» часто используется как вежливая форма просьбы.",
+    "forms": {
+      "infinitivo": "querer",
+      "presente": {
+        "eu": "quero",
+        "tu": "queres",
+        "ele/ela/você": "quer",
+        "nós": "queremos",
+        "vós": "quereis",
+        "eles/elas/vocês": "querem"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "pt": "comboio",
+    "ru": "поезд",
+    "pos": "существительное, мужской род",
+    "example_pt": "O comboio chega às nove.",
+    "example_ru": "Поезд прибывает в девять.",
+    "notes": "Европейский вариант; в Бразилии часто «trem».",
+    "forms": {}
+  },
+  {
+    "id": 17,
+    "pt": "casa de banho",
+    "ru": "ванная комната; туалет",
+    "pos": "словосочетание",
+    "example_pt": "Onde fica a casa de banho?",
+    "example_ru": "Где находится туалет?",
+    "notes": "Устойчивое выражение в Португалии.",
+    "forms": {}
+  },
+  {
+    "id": 18,
+    "pt": "pequeno-almoço",
+    "ru": "завтрак",
+    "pos": "существительное, мужской род",
+    "example_pt": "O pequeno-almoço está incluído.",
+    "example_ru": "Завтрак включён.",
+    "notes": "В Бразилии обычно «café da manhã».",
+    "forms": {}
+  },
+  {
+    "id": 19,
+    "pt": "autocarro",
+    "ru": "автобус",
+    "pos": "существительное, мужской род",
+    "example_pt": "Vou de autocarro para o centro.",
+    "example_ru": "Я еду в центр на автобусе.",
+    "notes": "Европейский вариант; в Бразилии часто «ônibus».",
+    "forms": {}
+  },
+  {
+    "id": 20,
+    "pt": "gosto de",
+    "ru": "мне нравится; я люблю",
+    "pos": "выражение",
+    "example_pt": "Gosto de aprender línguas.",
+    "example_ru": "Мне нравится изучать языки.",
+    "notes": "Конструкция: gostar de + существительное/инфинитив.",
+    "forms": {}
+  },
+  {
+    "id": 21,
+    "pt": "livro",
+    "ru": "книга",
+    "pos": "существительное, мужской род",
+    "example_pt": "Estou a ler um livro interessante.",
+    "example_ru": "Я читаю интересную книгу.",
+    "notes": "Конструкция estar a + инфинитив типична для европейского португальского.",
+    "forms": {}
+  },
+  {
+    "id": 22,
+    "pt": "trabalho",
+    "ru": "работа; я работаю",
+    "pos": "существительное / форма глагола",
+    "example_pt": "Trabalho em Lisboa.",
+    "example_ru": "Я работаю в Лиссабоне.",
+    "notes": "Также форма «я работаю» от trabalhar.",
+    "forms": {}
+  },
+  {
+    "id": 23,
+    "pt": "hoje",
+    "ru": "сегодня",
+    "pos": "наречие",
+    "example_pt": "Hoje não tenho tempo.",
+    "example_ru": "Сегодня у меня нет времени.",
+    "notes": "",
+    "forms": {}
+  },
+  {
+    "id": 24,
+    "pt": "amanhã",
+    "ru": "завтра",
+    "pos": "наречие",
+    "example_pt": "Até amanhã!",
+    "example_ru": "До завтра!",
+    "notes": "",
+    "forms": {}
+  },
+  {
+    "id": 25,
+    "pt": "desculpe",
+    "ru": "извините",
+    "pos": "выражение",
+    "example_pt": "Desculpe, onde fica a estação?",
+    "example_ru": "Извините, где находится станция?",
+    "notes": "Вежливая форма обращения.",
+    "forms": {}
+  }
+]
